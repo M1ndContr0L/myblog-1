@@ -5,7 +5,7 @@ module.exports = {
   introduction: `Seorang blogger amatiran. Tadinya mau jadi playboy, tapi masih kurang ganteng. Kalo blogger nggak ada syarat ganteng.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: `https://twitter.com/aradechoco`, // Your Twitter account
     github: ``, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
